@@ -4,8 +4,8 @@ $base_url = 'http://localhost/shoppingcart';
 
 // var database
 $db_host = 'localhost';
-$db_user = 'root';
-$db_pass = '123456789';
+$db_user = '';
+$db_pass = '';
 $db_name = 'shoppingcart';
 
 // conenct db
