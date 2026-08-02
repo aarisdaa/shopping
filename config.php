@@ -1,6 +1,6 @@
 <?php
 // var url
-$base_url = 'http://localhost/shoppingcart';
+$base_url = '';
 
 // var database
 $db_host = 'localhost';
