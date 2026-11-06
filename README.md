@@ -12,5 +12,3 @@ A web-based shopping cart application developed using PHP and MySQL.
 ## Technologies
 - PHP
 - MySQL
-- HTML
-- CSS
